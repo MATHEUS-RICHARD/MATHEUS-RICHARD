@@ -14,8 +14,6 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
 <div>
  
   ![Animação de cobra](https://github.com/MATHEUS-RICHARD/MATHEUS-RICHARD/blob/output/github-contribution-grid-snake.svg)
